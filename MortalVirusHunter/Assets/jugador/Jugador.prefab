@@ -177,7 +177,7 @@ GameObject:
   - component: {fileID: 706999822198549648}
   - component: {fileID: 706999822198549650}
   m_Layer: 0
-  m_Name: megaman
+  m_Name: Jugador
   m_TagString: jugador
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -237,7 +237,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -9181455661806487723, guid: 2bd8bbe4d6dabda4fbd1bf7bfb725567,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
