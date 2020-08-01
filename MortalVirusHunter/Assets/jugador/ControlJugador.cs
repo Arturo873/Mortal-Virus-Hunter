@@ -72,8 +72,8 @@ public class ControlJugador : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.W) && puedeSaltar == true)
         {
             rbd.AddForce(Vector2.up * salto, ForceMode2D.Impulse);
-            puedeSaltar = false;
-            anim.SetBool("saltar", true);
+            //puedeSaltar = false;
+            //anim.SetBool("saltar", true);
 
             
         }
@@ -101,18 +101,17 @@ public class ControlJugador : MonoBehaviour
     }
     
 
-    /*
+    
     
     public void OnCollisionExit2D(Collision2D tocando)
      {
-        if (tocando.gameObject.tag == "suelo")
-     {
-        puedeSaltar = false;
-        anim.SetBool("saltar", true);
-      }
+        if (tocando.gameObject.tag == "suelo" )
+        {
+            puedeSaltar = false;
+            anim.SetBool("saltar", true);
+        }
     }
 
-    */
 
 
     //disparo

@@ -176,6 +176,7 @@ GameObject:
   - component: {fileID: 706999822198549653}
   - component: {fileID: 706999822198549648}
   - component: {fileID: 706999822198549650}
+  - component: {fileID: 3540146019722157213}
   m_Layer: 0
   m_Name: Jugador
   m_TagString: jugador
@@ -276,7 +277,7 @@ CircleCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 706999822198549660}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -321,7 +322,7 @@ MonoBehaviour:
   pos: {fileID: 706999822198549649}
   speed: 10
   rbd: {fileID: 706999822198549648}
-  salto: 20
+  salto: 23
   puedeSaltar: 0
   sprit: {fileID: 706999822198549662}
   anim: {fileID: 706999822198549663}
@@ -329,3 +330,29 @@ MonoBehaviour:
   DisparoIzquierda: {fileID: 706999822083371509}
   balaPrefab: {fileID: 6208319774445449786, guid: c87c1804727b2754ca793018a01e1948,
     type: 3}
+--- !u!61 &3540146019722157213
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 706999822198549660}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 1.44}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 2.52, y: 2.88}
+    newSize: {x: 2.52, y: 2.88}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.52, y: 2.88}
+  m_EdgeRadius: 0

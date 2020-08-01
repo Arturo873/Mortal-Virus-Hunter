@@ -77,6 +77,33 @@ TextureImporter:
   - first:
       213: -1193269767611996238
     second: mines_of_sharega_24
+  - first:
+      213: 9163555546038101027
+    second: mines_of_sharega_25
+  - first:
+      213: -1130853960585586008
+    second: mines_of_sharega_26
+  - first:
+      213: 4226521375120650258
+    second: mines_of_sharega_27
+  - first:
+      213: -1197166325393454126
+    second: mines_of_sharega_28
+  - first:
+      213: -634024556933779999
+    second: mines_of_sharega_29
+  - first:
+      213: -8280243351633558426
+    second: mines_of_sharega_30
+  - first:
+      213: -5517665049951082058
+    second: mines_of_sharega_31
+  - first:
+      213: -465786287952880584
+    second: mines_of_sharega_32
+  - first:
+      213: -953193026064495185
+    second: mines_of_sharega_33
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -139,7 +166,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -151,7 +178,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -632,7 +659,7 @@ TextureImporter:
         width: 48
         height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -653,7 +680,7 @@ TextureImporter:
         width: 48
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -674,7 +701,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -682,6 +709,195 @@ TextureImporter:
       bones: []
       spriteID: 2b72644f777a07fe0800000000000000
       internalID: -1193269767611996238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mines_of_sharega_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 592
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3246921f73d7b2f70800000000000000
+      internalID: 9163555546038101027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mines_of_sharega_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aad37a70566e40f0800000000000000
+      internalID: -1130853960585586008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mines_of_sharega_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21079af2cce97aa30800000000000000
+      internalID: 4226521375120650258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mines_of_sharega_28
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 560
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db0dd5e19fc26fe0800000000000000
+      internalID: -1197166325393454126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mines_of_sharega_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 582
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed6611560e7337f0800000000000000
+      internalID: -634024556933779999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mines_of_sharega_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 560
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6648714da8aa61d80800000000000000
+      internalID: -8280243351633558426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mines_of_sharega_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9e314fed05d63b0800000000000000
+      internalID: -5517665049951082058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mines_of_sharega_32
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c1255c6d13989f0800000000000000
+      internalID: -465786287952880584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mines_of_sharega_33
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadcb073ef395c2f0800000000000000
+      internalID: -953193026064495185
       vertices: []
       indices: 
       edges: []
